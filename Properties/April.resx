@@ -1,0 +1,613 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="AlienBody" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\AlienBody.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="AlienHair0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\AlienHair0.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="AlienHair1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\AlienHair1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="AlienHair2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\AlienHair2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="AlienHair3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\AlienHair3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="AndrBody" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\AndrBody.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="AndrHair0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\AndrHair0.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="AndrHair1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\AndrHair1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="AndrHair2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\AndrHair2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="AndrHair3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\AndrHair3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CommBody" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\CommBody.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="DeadBody" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\DeadBody.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="DeadHair0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\DeadHair0.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="DeadHair1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\DeadHair1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="DeadHair2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\DeadHair2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="DeadHair3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\DeadHair3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Hair0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\Hair0.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Hair1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\Hair1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Hair2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\Hair2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Hair3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\Hair3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HBody" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\HBody.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HDownFace" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\HDownFace.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HFace" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\HFace.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HHair0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\HHair0.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HHair1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\HHair1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HHair2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\HHair2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HHair3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\HHair3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HHurt" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\HHurt.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HStBody" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\HStBody.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HStDownFace" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\HStDownFace.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HStFace" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\HStFace.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HStHair0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\HStHair0.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HStHair1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\HStHair1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HStHair2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\HStHair2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HStHair3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\HStHair3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HStHurt" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\HStHurt.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HStUpFace" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\HStUpFace.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HUpFace" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\HUpFace.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="InsBody" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\InsBody.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="InsFace" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\InsFace.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="InsHair0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\InsHair0.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="InsHair1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\InsHair1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="InsHair2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\InsHair2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="InsHair3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\InsHair3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="InsHurt" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\InsHurt.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="InsSiFace" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\InsSiFace.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="InsStBody" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\InsStBody.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="InsStFace" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\InsStFace.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="InsStHair0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\InsStHair0.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="InsStHair1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\InsStHair1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="InsStHair2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\InsStHair2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="InsStHair3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\InsStHair3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="InsStHurt" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\InsStHurt.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="InsStSiFace" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\InsStSiFace.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="InsWFBody" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\InsWFBody.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="InsWFFace" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\InsWFFace.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="InsWFHair0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\InsWFHair0.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="InsWFHair1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\InsWFHair1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="InsWFHair2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\InsWFHair2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="InsWFHair3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\InsWFHair3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="InsWFHurt" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\InsWFHurt.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="InsWFSiFace" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\InsWFSiFace.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="InsWFWkBody" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\InsWFWkBody.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="InsWFWkFace" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\InsWFWkFace.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="InsWFWkHair0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\InsWFWkHair0.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="InsWFWkHair1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\InsWFWkHair1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="InsWFWkHair2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\InsWFWkHair2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="InsWFWkHair3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\InsWFWkHair3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="InsWFWkHurt" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\InsWFWkHurt.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="InsWFWkSiFace" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\InsWFWkSiFace.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="InsWkBody" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\InsWkBody.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="InsWkFace" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\InsWkFace.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="InsWkHair0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\InsWkHair0.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="InsWkHair1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\InsWkHair1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="InsWkHair2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\InsWkHair2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="InsWkHair3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\InsWkHair3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="InsWkHurt" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\InsWkHurt.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="InsWkSiFace" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\InsWkSiFace.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="InsWkStBody" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\InsWkStBody.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="InsWkStFace" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\InsWkStFace.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="InsWkStHair0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\InsWkStHair0.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="InsWkStHair1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\InsWkStHair1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="InsWkStHair2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\InsWkStHair2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="InsWkStHair3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\InsWkStHair3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="InsWkStHurt" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\InsWkStHurt.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="InsWkStSiFace" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\InsWkStSiFace.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="NBody" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\NBody.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="NDownFace" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\NDownFace.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="NFace" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\NFace.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="NHurt" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\NHurt.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="NSiDownFace" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\NSiDownFace.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="NSiFace" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\NSiFace.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="NSiUpFace" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\NSiUpFace.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="NUpFace" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\NUpFace.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="StBody" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\StBody.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="StDownFace" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\StDownFace.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="StFace" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\StFace.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="StHair0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\StHair0.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="StHair1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\StHair1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="StHair2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\StHair2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="StHair3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\StHair3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="StHurt" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\StHurt.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="StSiDownFace" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\StSiDownFace.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="StSiFace" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\StSiFace.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="StSiUpFace" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\StSiUpFace.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="StUpFace" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\StUpFace.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ushanka" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\Ushanka.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="WFBody" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\WFBody.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="WFDownFace" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\WFDownFace.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="WFFace" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\WFFace.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="WFHair0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\WFHair0.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="WFHair1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\WFHair1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="WFHair2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\WFHair2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="WFHair3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\WFHair3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="WFHBody" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\WFHBody.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="WFHDownFace" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\WFHDownFace.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="WFHFace" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\WFHFace.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="WFHHair0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\WFHHair0.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="WFHHair1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\WFHHair1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="WFHHair2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\WFHHair2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="WFHHair3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\WFHHair3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="WFHHurt" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\WFHHurt.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="WFHUpFace" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\WFHUpFace.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="WFHurt" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\WFHurt.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="WFSiDownFace" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\WFSiDownFace.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="WFSiFace" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\WFSiFace.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="WFSiUpFace" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\WFSiUpFace.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="WFUpFace" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\WFUpFace.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="WFWkBody" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\WFWkBody.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="WFWkDownFace" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\WFWkDownFace.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="WFWkFace" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\WFWkFace.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="WFWkHair0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\WFWkHair0.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="WFWkHair1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\WFWkHair1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="WFWkHair2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\WFWkHair2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="WFWkHair3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\WFWkHair3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="WFWkHurt" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\WFWkHurt.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="WFWkSiDownFace" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\WFWkSiDownFace.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="WFWkSiFace" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\WFWkSiFace.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="WFWkSiUpFace" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\WFWkSiUpFace.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="WFWkUpFace" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\WFWkUpFace.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="WkBody" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\WkBody.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="WkDownFace" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\WkDownFace.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="WkFace" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\WkFace.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="WkHair0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\WkHair0.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="WkHair1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\WkHair1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="WkHair2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\WkHair2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="WkHair3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\WkHair3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="WkHurt" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\WkHurt.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="WkSiDownFace" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\WkSiDownFace.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="WkSiFace" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\WkSiFace.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="WkSiUpFace" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\WkSiUpFace.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="WkStBody" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\WkStBody.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="WkStDownFace" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\WkStDownFace.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="WkStFace" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\WkStFace.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="WkStHair0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\WkStHair0.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="WkStHair1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\WkStHair1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="WkStHair2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\WkStHair2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="WkStHair3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\WkStHair3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="WkStHurt" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\WkStHurt.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="WkStSiDownFace" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\WkStSiDownFace.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="WkStSiFace" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\WkStSiFace.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="WkStSiUpFace" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\WkStSiUpFace.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="WkStUpFace" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\WkStUpFace.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="WkUpFace" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\April\WkUpFace.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+</root>

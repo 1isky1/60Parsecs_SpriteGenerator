@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\Programming\\C#\\60 Parsecs Sprite Generator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|60 Parsecs Sprite Generator||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F5BBDA3-EA38-4BAB-8971-4291F485B2F5}|60 Parsecs Sprite Generator.csproj|C:\\Users\\USER\\Desktop\\Programming\\C#\\60 Parsecs Sprite Generator\\characterstatuses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F5BBDA3-EA38-4BAB-8971-4291F485B2F5}|60 Parsecs Sprite Generator.csproj|solutionrelative:characterstatuses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F5BBDA3-EA38-4BAB-8971-4291F485B2F5}|60 Parsecs Sprite Generator.csproj|C:\\Users\\USER\\Desktop\\Programming\\C#\\60 Parsecs Sprite Generator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5F5BBDA3-EA38-4BAB-8971-4291F485B2F5}|60 Parsecs Sprite Generator.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F5BBDA3-EA38-4BAB-8971-4291F485B2F5}|60 Parsecs Sprite Generator.csproj|C:\\Users\\USER\\Desktop\\Programming\\C#\\60 Parsecs Sprite Generator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F5BBDA3-EA38-4BAB-8971-4291F485B2F5}|60 Parsecs Sprite Generator.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F5BBDA3-EA38-4BAB-8971-4291F485B2F5}|60 Parsecs Sprite Generator.csproj|C:\\Users\\USER\\Desktop\\Programming\\C#\\60 Parsecs Sprite Generator\\properties\\deedee.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{5F5BBDA3-EA38-4BAB-8971-4291F485B2F5}|60 Parsecs Sprite Generator.csproj|solutionrelative:properties\\deedee.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F5BBDA3-EA38-4BAB-8971-4291F485B2F5}|60 Parsecs Sprite Generator.csproj|C:\\Users\\USER\\Desktop\\Programming\\C#\\60 Parsecs Sprite Generator\\properties\\april.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{5F5BBDA3-EA38-4BAB-8971-4291F485B2F5}|60 Parsecs Sprite Generator.csproj|solutionrelative:properties\\april.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F5BBDA3-EA38-4BAB-8971-4291F485B2F5}|60 Parsecs Sprite Generator.csproj|C:\\Users\\USER\\Desktop\\Programming\\C#\\60 Parsecs Sprite Generator\\statekeeper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F5BBDA3-EA38-4BAB-8971-4291F485B2F5}|60 Parsecs Sprite Generator.csproj|solutionrelative:statekeeper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F5BBDA3-EA38-4BAB-8971-4291F485B2F5}|60 Parsecs Sprite Generator.csproj|c:\\users\\user\\desktop\\programming\\c#\\60 parsecs sprite generator\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|cc4014f5-b18d-439c-9352-f99d984cca85"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "60 Parsecs Sprite Generator",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Programming\\C#\\60 Parsecs Sprite Generator\\60 Parsecs Sprite Generator.csproj",
+              "RelativeDocumentMoniker": "60 Parsecs Sprite Generator.csproj",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Programming\\C#\\60 Parsecs Sprite Generator\\60 Parsecs Sprite Generator.csproj",
+              "RelativeToolTip": "60 Parsecs Sprite Generator.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-28T09:08:30.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CharacterStatuses.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Programming\\C#\\60 Parsecs Sprite Generator\\CharacterStatuses.cs",
+              "RelativeDocumentMoniker": "CharacterStatuses.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Programming\\C#\\60 Parsecs Sprite Generator\\CharacterStatuses.cs",
+              "RelativeToolTip": "CharacterStatuses.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAADgAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T12:58:27.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "April.resx",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Programming\\C#\\60 Parsecs Sprite Generator\\Properties\\April.resx",
+              "RelativeDocumentMoniker": "Properties\\April.resx",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Programming\\C#\\60 Parsecs Sprite Generator\\Properties\\April.resx",
+              "RelativeToolTip": "Properties\\April.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-07-22T08:00:37.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Deedee.resx",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Programming\\C#\\60 Parsecs Sprite Generator\\Properties\\Deedee.resx",
+              "RelativeDocumentMoniker": "Properties\\Deedee.resx",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Programming\\C#\\60 Parsecs Sprite Generator\\Properties\\Deedee.resx",
+              "RelativeToolTip": "Properties\\Deedee.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-07-22T08:00:59.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Programming\\C#\\60 Parsecs Sprite Generator\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Programming\\C#\\60 Parsecs Sprite Generator\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAOUAAAAAAAAAAAAcwP8AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T15:28:56.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StateKeeper.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Programming\\C#\\60 Parsecs Sprite Generator\\StateKeeper.cs",
+              "RelativeDocumentMoniker": "StateKeeper.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Programming\\C#\\60 Parsecs Sprite Generator\\StateKeeper.cs",
+              "RelativeToolTip": "StateKeeper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T08:42:22.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Programming\\C#\\60 Parsecs Sprite Generator\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Programming\\C#\\60 Parsecs Sprite Generator\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T15:39:05.733Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

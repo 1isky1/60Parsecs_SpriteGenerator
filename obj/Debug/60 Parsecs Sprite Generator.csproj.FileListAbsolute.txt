@@ -1,0 +1,28 @@
+C:\Users\USER\Desktop\Бесполезный хлам\Programming\C#\60 Parsecs Sprite Generator\bin\Debug\60 Parsecs Sprite Generator.exe.config
+C:\Users\USER\Desktop\Бесполезный хлам\Programming\C#\60 Parsecs Sprite Generator\bin\Debug\60 Parsecs Sprite Generator.exe
+C:\Users\USER\Desktop\Бесполезный хлам\Programming\C#\60 Parsecs Sprite Generator\bin\Debug\60 Parsecs Sprite Generator.pdb
+C:\Users\USER\Desktop\Бесполезный хлам\Programming\C#\60 Parsecs Sprite Generator\obj\Debug\60 Parsecs Sprite Generator.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Бесполезный хлам\Programming\C#\60 Parsecs Sprite Generator\obj\Debug\_60_Parsecs_Sprite_Generator.Properties.Resources.resources
+C:\Users\USER\Desktop\Бесполезный хлам\Programming\C#\60 Parsecs Sprite Generator\obj\Debug\60 Parsecs Sprite Generator.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\Бесполезный хлам\Programming\C#\60 Parsecs Sprite Generator\obj\Debug\60 Parsecs Sprite Generator.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Бесполезный хлам\Programming\C#\60 Parsecs Sprite Generator\obj\Debug\60 Parsecs Sprite Generator.exe
+C:\Users\USER\Desktop\Бесполезный хлам\Programming\C#\60 Parsecs Sprite Generator\obj\Debug\60 Parsecs Sprite Generator.pdb
+C:\Users\USER\Desktop\Бесполезный хлам\Programming\C#\60 Parsecs Sprite Generator\obj\Debug\_60_Parsecs_Sprite_Generator.GenForm.resources
+C:\Users\USER\Desktop\Бесполезный хлам\Programming\C#\60 Parsecs Sprite Generator\obj\Debug\_60_Parsecs_Sprite_Generator.Properties.CharsSprites.resources
+C:\Users\USER\Desktop\Programming\C#\60 Parsecs Sprite Generator\bin\Debug\60 Parsecs Sprite Generator.exe.config
+C:\Users\USER\Desktop\Programming\C#\60 Parsecs Sprite Generator\bin\Debug\60 Parsecs Sprite Generator.exe
+C:\Users\USER\Desktop\Programming\C#\60 Parsecs Sprite Generator\bin\Debug\60 Parsecs Sprite Generator.pdb
+C:\Users\USER\Desktop\Programming\C#\60 Parsecs Sprite Generator\obj\Debug\60 Parsecs Sprite Generator.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Programming\C#\60 Parsecs Sprite Generator\obj\Debug\_60_Parsecs_Sprite_Generator.GenForm.resources
+C:\Users\USER\Desktop\Programming\C#\60 Parsecs Sprite Generator\obj\Debug\_60_Parsecs_Sprite_Generator.Properties.Resources.resources
+C:\Users\USER\Desktop\Programming\C#\60 Parsecs Sprite Generator\obj\Debug\60 Parsecs Sprite Generator.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\Programming\C#\60 Parsecs Sprite Generator\obj\Debug\60 Parsecs Sprite Generator.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Programming\C#\60 Parsecs Sprite Generator\obj\Debug\60 Parsecs Sprite Generator.exe
+C:\Users\USER\Desktop\Programming\C#\60 Parsecs Sprite Generator\obj\Debug\60 Parsecs Sprite Generator.pdb
+C:\Users\USER\Desktop\Programming\C#\60 Parsecs Sprite Generator\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\USER\Desktop\Programming\C#\60 Parsecs Sprite Generator\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\USER\Desktop\Programming\C#\60 Parsecs Sprite Generator\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\USER\Desktop\Programming\C#\60 Parsecs Sprite Generator\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\USER\Desktop\Programming\C#\60 Parsecs Sprite Generator\obj\Debug\60 Parse.E6B98249.Up2Date
+C:\Users\USER\Desktop\Programming\C#\60 Parsecs Sprite Generator\obj\Debug\_60_Parsecs_Sprite_Generator.Properties.April.resources
+C:\Users\USER\Desktop\Programming\C#\60 Parsecs Sprite Generator\obj\Debug\_60_Parsecs_Sprite_Generator.Properties.Deedee.resources

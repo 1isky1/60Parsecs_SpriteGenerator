@@ -1,0 +1,21 @@
+C:\Users\USER\Desktop\Programming\C#\60 Parsecs Sprite Generator\bin\Release\60 Parsecs Sprite Generator.exe.config
+C:\Users\USER\Desktop\Programming\C#\60 Parsecs Sprite Generator\bin\Release\60 Parsecs Sprite Generator.exe
+C:\Users\USER\Desktop\Programming\C#\60 Parsecs Sprite Generator\bin\Release\60 Parsecs Sprite Generator.pdb
+C:\Users\USER\Desktop\Programming\C#\60 Parsecs Sprite Generator\bin\Release\Microsoft.WindowsAPICodePack.dll
+C:\Users\USER\Desktop\Programming\C#\60 Parsecs Sprite Generator\bin\Release\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\USER\Desktop\Programming\C#\60 Parsecs Sprite Generator\bin\Release\Microsoft.WindowsAPICodePack.xml
+C:\Users\USER\Desktop\Programming\C#\60 Parsecs Sprite Generator\bin\Release\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\USER\Desktop\Programming\C#\60 Parsecs Sprite Generator\obj\Release\60 Parsecs Sprite Generator.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Programming\C#\60 Parsecs Sprite Generator\obj\Release\_60_Parsecs_Sprite_Generator.GenForm.resources
+C:\Users\USER\Desktop\Programming\C#\60 Parsecs Sprite Generator\obj\Release\_60_Parsecs_Sprite_Generator.Properties.April.resources
+C:\Users\USER\Desktop\Programming\C#\60 Parsecs Sprite Generator\obj\Release\_60_Parsecs_Sprite_Generator.Properties.Deedee.resources
+C:\Users\USER\Desktop\Programming\C#\60 Parsecs Sprite Generator\obj\Release\_60_Parsecs_Sprite_Generator.Properties.Resources.resources
+C:\Users\USER\Desktop\Programming\C#\60 Parsecs Sprite Generator\obj\Release\60 Parsecs Sprite Generator.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\Programming\C#\60 Parsecs Sprite Generator\obj\Release\60 Parsecs Sprite Generator.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Programming\C#\60 Parsecs Sprite Generator\obj\Release\60 Parse.E6B98249.Up2Date
+C:\Users\USER\Desktop\Programming\C#\60 Parsecs Sprite Generator\obj\Release\60 Parsecs Sprite Generator.exe
+C:\Users\USER\Desktop\Programming\C#\60 Parsecs Sprite Generator\obj\Release\60 Parsecs Sprite Generator.pdb
+C:\Users\USER\Desktop\Programming\C#\60 Parsecs Sprite Generator\bin\Release\60 Parsecs Sprite Generator.exe.manifest
+C:\Users\USER\Desktop\Programming\C#\60 Parsecs Sprite Generator\bin\Release\60 Parsecs Sprite Generator.application
+C:\Users\USER\Desktop\Programming\C#\60 Parsecs Sprite Generator\obj\Release\60 Parsecs Sprite Generator.exe.manifest
+C:\Users\USER\Desktop\Programming\C#\60 Parsecs Sprite Generator\obj\Release\60 Parsecs Sprite Generator.application
