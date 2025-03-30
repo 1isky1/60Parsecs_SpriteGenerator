@@ -10,7 +10,7 @@ Below is a brief instruction that will allow beginners to understand the functio
 - **Save Sprite to PNG** - allow to saving sprite to PNG-file. Creates a folder with the name of the selected character, and saves a file with the name of the set of corresponding stats;
 - **Quit** - quit from app;
 
-- **Change Theme** - allows to change dark / light theme of app.
+- **Change Theme** - allows to change *dark* / *light* theme of app.
 
 Below is a description of the basic settings of character stats.
 
@@ -30,14 +30,14 @@ Below is a description of the basic settings of character stats.
 
 3. Morale group
    - *Normal*
-   - *Up* - corresponding to Friend / Soulmate status;
-   - *Down* - corresponding to Unsubordinate / Enemy status.
+   - *Up* - corresponding to ***Friend***/***Soulmate*** status;
+   - *Down* - corresponding to ***Unsubordinate***/***Enemy*** status.
 4. Other statuses group
     - *Insane*
     - *Hurt* - corresponding to **Injured** status;
     - *Sick*
     - *Weak*
-    - *Hero* - corresponding to **Vigorous/Alert** status.
+    - *Hero* - corresponding to ***Vigorous***/***Alert*** status.
 
 
 ## Installation and using
